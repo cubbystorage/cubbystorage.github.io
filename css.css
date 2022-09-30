@@ -1,0 +1,14 @@
+
+.container {
+  position: relative;
+  padding-top: 139px;
+}
+
+.heading {
+  text-align: center;
+}
+
+.body {
+  margin-top: 131px;
+  font-family: 'DM Sans';font-size: 22px;
+}
